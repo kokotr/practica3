@@ -15,7 +15,7 @@ printf("Dame otro numero?:");
 scanf("%g",&b);
 
 
-printf("el resultado de la suma es %d",a+b);
+printf("el resultado de la suma es %g",a+b);
 
 
 
